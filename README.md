@@ -37,7 +37,7 @@ An interactive Sorting Visualizer built using HTML, CSS, and JavaScript to demon
 1. Clone the repository
 
 ```bash
-git clone https://github.com/av905666/av905666.git
+git clone https://github.com/av905666/Sorting-visualizer.git
 ```
 
 2. Open the project folder
